@@ -1,0 +1,4 @@
+#4682B4 70 130 180 Steel Blue
+#4169E1 65 105 225 Royal Blue
+#6495ED 100 149 237 Cornflower Blue
+#B0C4DE 176 196 222  Light Steel Blue

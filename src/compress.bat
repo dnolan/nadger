@@ -1,0 +1,1 @@
+exepacker -9 --force-compress -o nadgercomp.exe nadger.exe
